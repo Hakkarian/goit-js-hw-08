@@ -4,8 +4,8 @@
   "description": "",
   "homepage": "https://goitacademy.github.io/parcel-project-template",
   "scripts": {
-    "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /goit-js-hw-08/"
+    "start": "parcel ./index.html",
+    "build": "parcel build ./index.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
